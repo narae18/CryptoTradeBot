@@ -1,1 +1,2 @@
 # CryptoTradeBot
+-확인
